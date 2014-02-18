@@ -1,0 +1,26 @@
+{
+  "name": "ice_cream",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/8legged/ice_cream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8legged/ice_cream/issues"
+  },
+  "homepage": "https://github.com/8legged/ice_cream",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-simple-mocha": "~0.4.0",
+    "jshint": "~2.4.3",
+    "chai": "~1.9.0",
+    "grunt-contrib-jshint": "~0.8.0"
+  }
+}
